@@ -2,7 +2,7 @@
 
 var app = new Vue({    
     data: {
-      message: 'Hello Vue!'
+      message: 'Hello Developer Branch!'
     }
   }).$mount('#app');
 

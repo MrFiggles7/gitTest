@@ -2,7 +2,7 @@
 
 var app = new Vue({    
     data: {
-      message: 'Hello Developer Branch! This is version 1.1'
+      message: 'Hello Developer Branch! This is version 1.2'
     }
   }).$mount('#app');
 

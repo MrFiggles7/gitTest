@@ -35,6 +35,9 @@
             <b-button variant="outline-dark">
         {{ message }}
         </b-button>
+        <b-card>
+            this is a new card with some new text
+        </b-card>
             </b-col>
         </b-row>
     </b-container-fluid>
